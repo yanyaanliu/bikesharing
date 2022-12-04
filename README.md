@@ -43,7 +43,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 
 #### Trips by weekday and gender
-![trips by weekday](/Images/image6.png)
+
+![trips by weekday hour](/Images/image6.png)
 ![trips by weekday](/Images/image5.png)
 
 
@@ -53,10 +54,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 
 ## Summary
--There was high usage of citibikes in New York City in August 2019. The top starting location was the Manhattan area. 
--The majority of the rides were taken by male users during work commute hours in the morning and evening.
-
-
+- There was high usage of citibikes in New York City in August 2019. The top starting location was the Manhattan area. 
+- The majority of the rides were taken by male users during work commute hours in the morning and evening.
 
 Additional analysis suggestions:
 - comparing data different months of the year to identify the highest and lowest activity months. 
