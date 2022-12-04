@@ -22,7 +22,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 #### August Peak Hours
 <p align="center">
-![Aug Peak Hours](/images/image2.png)
+![Aug Peak Hours](/Images/image2.png)
 </p>
 - The peak hours for bike usage is 5 PM to 7 PM. Maintenance should be avoided during these peak hours. 
 - The least busy hours is from 1 AM to 4 AM. Maintenance should be done during these hours.
@@ -32,8 +32,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 #### Checkout times for users and gender
 <p align="center">
-    ![code1](/images/image3.png)
-    ![code1](/images/image4.png)
+    ![code1](/Images/image3.png)
+    ![code1](/Images/image4.png)
 </p>
 
 - Users (male and female) usually check out their bikes for 4 to 6 hours.
@@ -44,7 +44,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 #### Trips by weekday and gender
 <p align="center">
-    ![code1](/images/image5.png)
+    ![code1](/Images/image5.png)
 </p>
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
