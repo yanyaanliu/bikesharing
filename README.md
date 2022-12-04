@@ -11,9 +11,9 @@ The purpose of this project is to convince investors that a bike-sharing program
 [Link to dashboard](https://public.tableau.com/app/profile/yongxin.liu/viz/NYC_BIkeSharing/NYC_Bikeshare?publish=yes)
 
 ### New York Citi Bike data visualizations for August 2019
-
+![dashboard](/Images/image1.png)
 <p align="center">
-    ![code1](/images/image1.png)
+
 </p>
 - There were 2,344,224 rides in the month of August, 2019. 
 - Younger users tend to ride bikes for a longer duration. 
