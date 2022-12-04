@@ -31,10 +31,10 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 
 #### Checkout times for users and gender
-<p align="center">
-    ![code1](/Images/image3.png)
-    ![code1](/Images/image4.png)
-</p>
+
+![checkout times](/Images/image3.png)
+![checkout times gender](/Images/image4.png)
+
 
 - Users (male and female) usually check out their bikes for 4 to 6 hours.
 - Male users have significantly more rides than females users (approximately 3 times more)
@@ -43,9 +43,9 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 
 #### Trips by weekday and gender
-<p align="center">
-    ![code1](/Images/image5.png)
-</p>
+![trips by weekday](/Images/image6.png)
+![trips by weekday](/Images/image5.png)
+
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
 - Weekend rides are highest from 10:00 AM to 7:00 PM.
