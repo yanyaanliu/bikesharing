@@ -12,10 +12,8 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 ### New York CitiBike data visualizations
 ![dashboard](/Images/image1.png)
-<p align="center">
 
-</p>
-- There were 2,344,224 rides in the month of August, 2019. 
+- There were 2,344,224 rides in the month of August, 2019.
 - Younger users tend to ride bikes for a longer duration. 
 - The top starting location in New York seems to be Manhattan. 
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females. 
