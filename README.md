@@ -10,7 +10,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 ### Tableau Story
 [Link to dashboard](https://public.tableau.com/app/profile/yongxin.liu/viz/NYC_BIkeSharing/NYC_Bikeshare?publish=yes)
 
-### New York Citi Bike data visualizations for August 2019
+### New York CitiBike data visualizations
 ![dashboard](/Images/image1.png)
 <p align="center">
 
